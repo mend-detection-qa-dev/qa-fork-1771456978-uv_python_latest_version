@@ -1,9 +1,9 @@
 [project]
 name = "python-latest-version"
 version = "1.0.0"
-description = "Test: Python 3.12+ with latest UV and modern features"
+description = "Test: Python 3.14+ with latest UV and modern features"
 # Requires Python 3.12 or later to leverage newest features
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 
 dependencies = [
     # Latest package versions with 3.12+ support
